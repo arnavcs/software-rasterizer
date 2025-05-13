@@ -1,3 +1,5 @@
-# software-raycaster
+# software-rasterizer
 
-The mechanics of the raycasting are discussed in detail in
+More control over the scene being rasterized to come.
+
+See the website in action at [https://arnavcs.github.io/software-rasterizer/](https://arnavcs.github.io/software-rasterizer/).
